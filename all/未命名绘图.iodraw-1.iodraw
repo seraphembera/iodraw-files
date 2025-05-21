@@ -33,8 +33,8 @@
         <mxCell id="fbKbPismk8QWkSGeohtF-6" value="初始化成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="390" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fbKbPismk8QWkSGeohtF-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="60" height="30" as="geometry" />
+        <mxCell id="fbKbPismk8QWkSGeohtF-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
