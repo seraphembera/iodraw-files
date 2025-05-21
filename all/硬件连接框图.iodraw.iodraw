@@ -40,6 +40,9 @@
         <mxCell id="KjfFmWLDGq9cdnY8I6Et-9" value="8080接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KjfFmWLDGq9cdnY8I6Et-10" value="UART接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
