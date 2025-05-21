@@ -37,6 +37,9 @@
             <mxPoint x="200" y="409.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KjfFmWLDGq9cdnY8I6Et-9" value="I2C接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
