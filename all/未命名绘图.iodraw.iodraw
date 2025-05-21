@@ -25,7 +25,7 @@
         <mxCell id="aJ9kvFhdOGRbOf2CjBPp-4" value="LCD&lt;div&gt;显示屏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-5" value="MPU6050&lt;div&gt;传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-5" value="HC-05&lt;div&gt;蓝牙模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="370" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aJ9kvFhdOGRbOf2CjBPp-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.111111111111111;endSize=3.1111111111111107;width=5;" parent="1" edge="1">
