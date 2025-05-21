@@ -22,12 +22,18 @@
           <mxGeometry x="320" y="255" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wD-tuqufhNCLrOei7XuW-7" value="询问：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="255" width="40" height="30" as="geometry" />
+          <mxGeometry x="440" y="255" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wD-tuqufhNCLrOei7XuW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="269.74" as="sourcePoint" />
             <mxPoint x="430" y="269.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wD-tuqufhNCLrOei7XuW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="279.74" as="sourcePoint" />
+            <mxPoint x="440" y="279.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
