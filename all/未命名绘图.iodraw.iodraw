@@ -104,8 +104,8 @@
         <mxCell id="JStzuNuFuhzaZNDt67vu-17" value="平行投影&lt;div&gt;变换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JStzuNuFuhzaZNDt67vu-18" value="平行投影&lt;div&gt;变换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="260" width="60" height="40" as="geometry" />
+        <mxCell id="JStzuNuFuhzaZNDt67vu-18" value="动态3D模型渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="305" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
