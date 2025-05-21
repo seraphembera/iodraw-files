@@ -111,10 +111,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JStzuNuFuhzaZNDt67vu-18" value="动态3D模型渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="311.25" width="60" height="47.5" as="geometry" />
+          <mxGeometry x="500" y="312.5" width="60" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="JStzuNuFuhzaZNDt67vu-19" value="参数面板显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="372.5" width="60" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JStzuNuFuhzaZNDt67vu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
