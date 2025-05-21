@@ -36,6 +36,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fbKbPismk8QWkSGeohtF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbKbPismk8QWkSGeohtF-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fbKbPismk8QWkSGeohtF-6" value="初始化成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="390" width="100" height="60" as="geometry" />
         </mxCell>
@@ -57,7 +62,7 @@
           <mxGeometry x="340" y="290" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="fbKbPismk8QWkSGeohtF-16" value="配置采样率" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255" y="370" width="90" height="35" as="geometry" />
+          <mxGeometry x="340" y="240" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
