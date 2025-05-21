@@ -13,10 +13,10 @@
           <mxGeometry x="200" y="250" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wD-tuqufhNCLrOei7XuW-3" value="询问：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="60" height="40" as="geometry" />
+          <mxGeometry x="320" y="250" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wD-tuqufhNCLrOei7XuW-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="40" height="40" as="geometry" />
+          <mxGeometry x="370" y="260" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
