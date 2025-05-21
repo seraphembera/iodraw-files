@@ -10,7 +10,7 @@
         <mxCell id="YqxwsmCm8FDaJY8gAUvv-1" value="硬件层" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="210" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-1" value="STM32&lt;div&gt;处理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="50" height="140" as="geometry" />
         </mxCell>
       </root>
