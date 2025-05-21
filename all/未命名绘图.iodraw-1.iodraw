@@ -36,9 +36,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fbKbPismk8QWkSGeohtF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbKbPismk8QWkSGeohtF-6">
+        <mxCell id="fbKbPismk8QWkSGeohtF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="470" as="targetPoint" />
+            <mxPoint x="365" y="470" as="targetPoint" />
+            <mxPoint x="315" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fbKbPismk8QWkSGeohtF-6" value="初始化成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
