@@ -43,7 +43,7 @@
         <mxCell id="8DLBprgqSdToDuhMj-WO-13" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8DLBprgqSdToDuhMj-WO-14" value="用户交互" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8DLBprgqSdToDuhMj-WO-14" value="系统调度" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="315" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bLBr26RhUdfQY3MtaIYc-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6.333333333333333;endSize=5.52;endWidth=12.222222222222221;" edge="1" parent="1">
