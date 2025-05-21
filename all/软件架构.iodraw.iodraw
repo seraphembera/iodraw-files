@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8DLBprgqSdToDuhMj-WO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="140" height="210" as="geometry" />
+        <mxCell id="8DLBprgqSdToDuhMj-WO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-2" value="MPU6050&lt;div&gt;传感器驱动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-3" value="MPU6050&lt;div&gt;传感器驱动&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="260" width="100" height="50" as="geometry" />
+          <mxGeometry x="80" y="250" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
