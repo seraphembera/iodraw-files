@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wD-tuqufhNCLrOei7XuW-22" value="轮询方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wD-tuqufhNCLrOei7XuW-22" value="轮询模式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppfZRSa7fyskR_R4bABy-1" target="ppfZRSa7fyskR_R4bABy-2">
@@ -117,7 +117,7 @@
           <mxGeometry x="560" y="370" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-12" value="中断方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
