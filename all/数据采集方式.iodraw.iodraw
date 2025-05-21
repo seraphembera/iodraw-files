@@ -102,10 +102,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-4" value="IMU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="420" width="50" height="30" as="geometry" />
+          <mxGeometry x="220" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-6" value="数据就绪触发中断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="410" width="110" height="30" as="geometry" />
+          <mxGeometry x="280" y="400" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppfZRSa7fyskR_R4bABy-7" target="ppfZRSa7fyskR_R4bABy-8">
           <mxGeometry relative="1" as="geometry" />
