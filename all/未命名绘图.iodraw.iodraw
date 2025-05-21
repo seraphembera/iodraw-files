@@ -101,13 +101,16 @@
         <mxCell id="JStzuNuFuhzaZNDt67vu-16" value="数据处理层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="210" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JStzuNuFuhzaZNDt67vu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JStzuNuFuhzaZNDt67vu-17" target="JStzuNuFuhzaZNDt67vu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JStzuNuFuhzaZNDt67vu-17" value="平行投影&lt;div&gt;变换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JStzuNuFuhzaZNDt67vu-18" value="动态3D模型渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="312.5" width="60" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="JStzuNuFuhzaZNDt67vu-19" value="动态3D模型渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JStzuNuFuhzaZNDt67vu-19" value="参数面板显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="370" width="60" height="47.5" as="geometry" />
         </mxCell>
       </root>
