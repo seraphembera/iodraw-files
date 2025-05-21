@@ -20,16 +20,16 @@
           <mxGeometry x="95" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="140" height="210" as="geometry" />
+          <mxGeometry x="230" y="160" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-7" value="中间层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="160" width="70" height="30" as="geometry" />
+          <mxGeometry x="265" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-8" value="姿态解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="100" height="50" as="geometry" />
+          <mxGeometry x="250" y="210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-9" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="100" height="50" as="geometry" />
+          <mxGeometry x="250" y="290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="160" width="140" height="210" as="geometry" />
