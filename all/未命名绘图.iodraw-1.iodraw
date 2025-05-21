@@ -60,10 +60,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fbKbPismk8QWkSGeohtF-14" value="校准" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fbKbPismk8QWkSGeohtF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbKbPismk8QWkSGeohtF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbKbPismk8QWkSGeohtF-14" value="读取原始数据" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="fbKbPismk8QWkSGeohtF-15" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fbKbPismk8QWkSGeohtF-15" value="校准" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="fbKbPismk8QWkSGeohtF-16" value="单位转换" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
