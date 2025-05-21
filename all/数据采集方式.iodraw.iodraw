@@ -104,11 +104,17 @@
         <mxCell id="ppfZRSa7fyskR_R4bABy-6" value="数据就绪触发中断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ppfZRSa7fyskR_R4bABy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppfZRSa7fyskR_R4bABy-7" target="ppfZRSa7fyskR_R4bABy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-7" value="读取IMU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppfZRSa7fyskR_R4bABy-8" value="处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppfZRSa7fyskR_R4bABy-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="440" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
