@@ -43,7 +43,7 @@
         <mxCell id="KjfFmWLDGq9cdnY8I6Et-10" value="UART接口" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NbX8OcGMsE4q-48vQorI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NbX8OcGMsE4q-48vQorI-2" value="LDO线性稳压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
