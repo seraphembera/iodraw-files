@@ -72,8 +72,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wD-tuqufhNCLrOei7XuW-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="wD-tuqufhNCLrOei7XuW-22" value="轮询方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
