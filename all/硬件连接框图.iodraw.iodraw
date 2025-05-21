@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbX8OcGMsE4q-48vQorI-4" value="最大6V输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="140" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
