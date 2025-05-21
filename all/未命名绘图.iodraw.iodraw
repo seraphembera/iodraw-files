@@ -11,7 +11,7 @@
           <mxGeometry x="110" y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aJ9kvFhdOGRbOf2CjBPp-1" value="STM32&lt;div&gt;处理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="250" width="50" height="160" as="geometry" />
+          <mxGeometry x="120" y="250" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="aJ9kvFhdOGRbOf2CjBPp-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=6.111111111111111;endSize=3.1111111111111107;width=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -23,7 +23,10 @@
           <mxGeometry x="190" y="250" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aJ9kvFhdOGRbOf2CjBPp-4" value="LCD&lt;div&gt;显示屏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="70" height="40" as="geometry" />
+          <mxGeometry x="190" y="300" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-5" value="MPU6050&lt;div&gt;传感器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
