@@ -67,8 +67,8 @@
         </mxCell>
         <mxCell id="NbX8OcGMsE4q-48vQorI-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="160" as="sourcePoint" />
-            <mxPoint x="249.66" y="180" as="targetPoint" />
+            <mxPoint x="220.05" y="160" as="sourcePoint" />
+            <mxPoint x="219.71" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbX8OcGMsE4q-48vQorI-4" value="最大6V输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -91,6 +91,12 @@
               <mxPoint x="100" y="370" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NbX8OcGMsE4q-48vQorI-9" value="3.3V供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NbX8OcGMsE4q-48vQorI-10" value="3.3V供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
