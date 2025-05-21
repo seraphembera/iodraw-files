@@ -13,7 +13,7 @@
         <mxCell id="aJ9kvFhdOGRbOf2CjBPp-1" value="STM32&lt;div&gt;处理器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="250" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=12;endSize=4.6;width=8.4;" edge="1" parent="1">
+        <mxCell id="aJ9kvFhdOGRbOf2CjBPp-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=7.944444444444445;endSize=3.977777777777778;width=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="270.14" as="sourcePoint" />
             <mxPoint x="200" y="270" as="targetPoint" />
