@@ -54,6 +54,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NbX8OcGMsE4q-48vQorI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbX8OcGMsE4q-48vQorI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NbX8OcGMsE4q-48vQorI-2" value="LDO线性稳压" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="120" height="40" as="geometry" />
         </mxCell>
