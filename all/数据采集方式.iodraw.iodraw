@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wD-tuqufhNCLrOei7XuW-19" value="不断询问IMU" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="330" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="330" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
