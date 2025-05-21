@@ -20,10 +20,10 @@
           <mxGeometry x="95" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DLBprgqSdToDuhMj-WO-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="170" width="140" height="210" as="geometry" />
+          <mxGeometry x="240" y="160" width="140" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="8DLBprgqSdToDuhMj-WO-7" value="硬件驱动层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="105" y="170" width="70" height="30" as="geometry" />
+        <mxCell id="8DLBprgqSdToDuhMj-WO-7" value="中间层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="160" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
