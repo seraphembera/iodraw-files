@@ -83,6 +83,9 @@
         <mxCell id="wD-tuqufhNCLrOei7XuW-22" value="轮询方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="235" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ppfZRSa7fyskR_R4bABy-1" value="CPU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
