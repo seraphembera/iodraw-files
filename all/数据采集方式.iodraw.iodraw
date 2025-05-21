@@ -101,8 +101,11 @@
         <mxCell id="ppfZRSa7fyskR_R4bABy-6" value="数据就绪触发中断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="410" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppfZRSa7fyskR_R4bABy-7" value="中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="380" width="50" height="30" as="geometry" />
+        <mxCell id="ppfZRSa7fyskR_R4bABy-7" value="读取IMU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="370" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppfZRSa7fyskR_R4bABy-8" value="中断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
