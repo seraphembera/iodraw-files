@@ -28,7 +28,7 @@
             <mxPoint x="200" y="339.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjfFmWLDGq9cdnY8I6Et-7" value="LCD屏幕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KjfFmWLDGq9cdnY8I6Et-7" value="HC-05&lt;div&gt;蓝牙模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KjfFmWLDGq9cdnY8I6Et-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
