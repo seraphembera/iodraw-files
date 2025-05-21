@@ -16,8 +16,8 @@
             <mxPoint x="260" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KjfFmWLDGq9cdnY8I6Et-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="60" height="30" as="geometry" />
+        <mxCell id="KjfFmWLDGq9cdnY8I6Et-4" value="I2C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
