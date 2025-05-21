@@ -17,7 +17,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KjfFmWLDGq9cdnY8I6Et-4" value="I2C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KjfFmWLDGq9cdnY8I6Et-5" value="MPU6050" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
