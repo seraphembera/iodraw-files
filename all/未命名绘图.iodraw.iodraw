@@ -81,9 +81,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JStzuNuFuhzaZNDt67vu-11" value="四元数转换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="335" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JStzuNuFuhzaZNDt67vu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JStzuNuFuhzaZNDt67vu-12" value="PI控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
