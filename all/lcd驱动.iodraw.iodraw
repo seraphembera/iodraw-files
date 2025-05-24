@@ -38,6 +38,9 @@
         <mxCell id="1RfGQrpOpnvXrcOvsfJx-8" value="设置RGB565格式、垂直扫描、帧同步等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162.5" y="390" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1RfGQrpOpnvXrcOvsfJx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1RfGQrpOpnvXrcOvsfJx-9" target="1RfGQrpOpnvXrcOvsfJx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1RfGQrpOpnvXrcOvsfJx-9" value="开启背光控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="120" height="30" as="geometry" />
         </mxCell>
@@ -46,6 +49,9 @@
         </mxCell>
         <mxCell id="1RfGQrpOpnvXrcOvsfJx-11" value="初始化完成" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="555" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1RfGQrpOpnvXrcOvsfJx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1RfGQrpOpnvXrcOvsfJx-8" target="1RfGQrpOpnvXrcOvsfJx-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
