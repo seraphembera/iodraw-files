@@ -31,8 +31,8 @@
         <mxCell id="35rmaLyNq2w2IcEn_h-8-11" value="更新积分项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="415" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="35rmaLyNq2w2IcEn_h-8-12" value="更新积分项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="360" width="90" height="30" as="geometry" />
+        <mxCell id="35rmaLyNq2w2IcEn_h-8-12" value="比例积分控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
