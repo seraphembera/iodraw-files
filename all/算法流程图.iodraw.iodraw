@@ -22,8 +22,14 @@
         <mxCell id="35rmaLyNq2w2IcEn_h-8-4" value="数据归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="35rmaLyNq2w2IcEn_h-8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35rmaLyNq2w2IcEn_h-8-5" target="35rmaLyNq2w2IcEn_h-8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="35rmaLyNq2w2IcEn_h-8-5" value="噪声滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35rmaLyNq2w2IcEn_h-8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="35rmaLyNq2w2IcEn_h-8-6" target="35rmaLyNq2w2IcEn_h-8-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="35rmaLyNq2w2IcEn_h-8-6" value="计算当前姿态重力方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="270" width="145" height="30" as="geometry" />
@@ -57,6 +63,9 @@
         </mxCell>
         <mxCell id="35rmaLyNq2w2IcEn_h-8-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35rmaLyNq2w2IcEn_h-8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="35rmaLyNq2w2IcEn_h-8-7" target="35rmaLyNq2w2IcEn_h-8-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
