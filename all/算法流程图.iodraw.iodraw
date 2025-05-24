@@ -40,6 +40,9 @@
         <mxCell id="35rmaLyNq2w2IcEn_h-8-14" value="四元数微分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="35rmaLyNq2w2IcEn_h-8-15" value="四元数微分方程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
