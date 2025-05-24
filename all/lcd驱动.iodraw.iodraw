@@ -31,6 +31,9 @@
         <mxCell id="1RfGQrpOpnvXrcOvsfJx-10" value="设置初始亮度为70%" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="585" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1RfGQrpOpnvXrcOvsfJx-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
