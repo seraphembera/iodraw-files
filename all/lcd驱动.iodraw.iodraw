@@ -25,8 +25,11 @@
         <mxCell id="1RfGQrpOpnvXrcOvsfJx-8" value="设置RGB565格式、垂直扫描、帧同步等" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1RfGQrpOpnvXrcOvsfJx-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1RfGQrpOpnvXrcOvsfJx-9" value="开启背光控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1RfGQrpOpnvXrcOvsfJx-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
