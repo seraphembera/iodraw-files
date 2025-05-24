@@ -7,7 +7,7 @@
         <mxCell id="1RfGQrpOpnvXrcOvsfJx-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1RfGQrpOpnvXrcOvsfJx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1RfGQrpOpnvXrcOvsfJx-2" value="驱动初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
