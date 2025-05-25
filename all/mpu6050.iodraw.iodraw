@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ZtZTMeeeFyRapiaiceG0">
-    <mxGraphModel dx="403" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="840" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,34 +107,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-11" value="Interrupt&lt;div&gt;Status&lt;/div&gt;&lt;div&gt;Register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="135" width="86" height="60" as="geometry" />
+          <mxGeometry x="381" y="140" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-12" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="225" width="66" height="30" as="geometry" />
+          <mxGeometry x="391" y="230" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-13" value="Config&lt;div&gt;Registers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="286.25" width="86" height="37.5" as="geometry" />
+          <mxGeometry x="381" y="291.25" width="86" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-14" value="&lt;div&gt;Sensor&lt;/div&gt;&lt;div&gt;Registers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="350" width="86" height="35" as="geometry" />
+          <mxGeometry x="381" y="355" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-15" value="Factory&lt;div&gt;Calibration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="415" width="86" height="35" as="geometry" />
+          <mxGeometry x="380" y="420" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-16" value="Digital Motion&lt;div&gt;Processor&lt;/div&gt;&lt;div&gt;(DMP)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="390" width="86" height="55" as="geometry" />
+          <mxGeometry x="500" y="395" width="86" height="55" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-17" value="Slave I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="198.13" width="93" height="83.75" as="geometry" />
+          <mxGeometry x="500" y="203.13" width="93" height="83.75" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-18" value="Master I2C&lt;div&gt;Serial&lt;/div&gt;&lt;div&gt;Interface&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="305" width="80" height="60" as="geometry" />
+          <mxGeometry x="500" y="310" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-19" value="Serial&lt;div&gt;Interface&lt;/div&gt;&lt;div&gt;Bybass&lt;/div&gt;&lt;div&gt;Mux&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607" y="305" width="80" height="60" as="geometry" />
+          <mxGeometry x="607" y="310" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KoOJyJ3tfPjUWSzCjJlV-1" target="KoOJyJ3tfPjUWSzCjJlV-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KoOJyJ3tfPjUWSzCjJlV-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="190" as="sourcePoint" />
+            <mxPoint x="540" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
