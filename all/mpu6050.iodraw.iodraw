@@ -110,10 +110,10 @@
           <mxGeometry x="414" y="140" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-12" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="235" width="80" height="35" as="geometry" />
+          <mxGeometry x="414" y="235" width="66" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-13" value="Config&lt;div&gt;Register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="312.5" width="82.5" height="55" as="geometry" />
+          <mxGeometry x="414" y="300" width="86" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
