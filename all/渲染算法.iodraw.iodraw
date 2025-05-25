@@ -19,7 +19,10 @@
         <mxCell id="vwHL_kU-YpUHQDD5DFjf-6" value="对每个顶点应用旋转矩阵计算新坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwHL_kU-YpUHQDD5DFjf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwHL_kU-YpUHQDD5DFjf-7" value="将3D坐标投影为LCD屏幕的2D坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vwHL_kU-YpUHQDD5DFjf-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
