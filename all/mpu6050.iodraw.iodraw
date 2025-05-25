@@ -112,11 +112,14 @@
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-12" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="230" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KoOJyJ3tfPjUWSzCjJlV-13" value="Config&lt;div&gt;Register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KoOJyJ3tfPjUWSzCjJlV-13" value="Config&lt;div&gt;Registers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="282.5" width="86" height="55" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-14" value="&lt;div&gt;Sensor&lt;/div&gt;&lt;div&gt;Registers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="355" width="86" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="KoOJyJ3tfPjUWSzCjJlV-15" value="Config&lt;div&gt;Register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434" y="302.5" width="86" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
