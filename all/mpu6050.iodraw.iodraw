@@ -125,7 +125,7 @@
           <mxGeometry x="530" y="435" width="86" height="55" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-17" value="Slave I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="172.5" width="86" height="35" as="geometry" />
+          <mxGeometry x="533" y="166.25" width="80" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
