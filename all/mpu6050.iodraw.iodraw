@@ -26,19 +26,13 @@
           <mxGeometry x="130" y="420" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-8" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="115" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-9" value="Temp Sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-10" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="180" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vBCaYA9Bk_-LSTim4qw2-11" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="325" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vBCaYA9Bk_-LSTim4qw2-12" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-13" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="235" width="40" height="30" as="geometry" />
