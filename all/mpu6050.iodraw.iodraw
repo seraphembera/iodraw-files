@@ -73,8 +73,8 @@
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="115" width="46" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="KoOJyJ3tfPjUWSzCjJlV-1" value="Signal Conditions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="376" y="300" width="60" height="30" as="geometry" />
+        <mxCell id="KoOJyJ3tfPjUWSzCjJlV-1" value="Signal Conditions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="329" y="347" width="154" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
