@@ -119,7 +119,7 @@
           <mxGeometry x="414" y="355" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-15" value="Factory&lt;div&gt;Calibration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="412.5" width="86" height="35" as="geometry" />
+          <mxGeometry x="413" y="420" width="86" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-16" value="Digital Motion&lt;div&gt;Processor&lt;/div&gt;&lt;div&gt;(DMP)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="435" width="86" height="55" as="geometry" />
