@@ -110,7 +110,7 @@
           <mxGeometry x="414" y="140" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-12" value="FIFO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="230" width="66" height="30" as="geometry" />
+          <mxGeometry x="424" y="213.75" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-13" value="Config&lt;div&gt;Registers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="282.5" width="86" height="37.5" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="533" y="150" width="80" height="63.75" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-18" value="Master I2C&lt;div&gt;Serial&lt;/div&gt;&lt;div&gt;Interface&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="533" y="235" width="80" height="60" as="geometry" />
+          <mxGeometry x="536" y="310" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KoOJyJ3tfPjUWSzCjJlV-19" value="Serial&lt;div&gt;Interface&lt;/div&gt;&lt;div&gt;Bybass&lt;/div&gt;&lt;div&gt;Mux&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="235" width="80" height="60" as="geometry" />
