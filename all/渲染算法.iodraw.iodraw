@@ -10,8 +10,8 @@
         <mxCell id="vwHL_kU-YpUHQDD5DFjf-2" value="初始化旋转矩阵为单位矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vwHL_kU-YpUHQDD5DFjf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="vwHL_kU-YpUHQDD5DFjf-3" value="依次计算Z轴、X轴、Y轴的旋转矩阵并相乘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
