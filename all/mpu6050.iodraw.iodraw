@@ -44,16 +44,16 @@
           <mxGeometry x="290" y="190" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-14" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="40" height="30" as="geometry" />
+          <mxGeometry x="250" y="235" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-15" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="210" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="370" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-16" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="425" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-17" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="485" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
