@@ -17,7 +17,7 @@
           <mxGeometry x="130" y="230" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-5" value="X Gyro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="70" height="40" as="geometry" />
+          <mxGeometry x="130" y="290" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-6" value="Y Gyro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="70" height="40" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="120" y="480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-10" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="175" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-13" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="235" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="235" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-14" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="305" width="40" height="30" as="geometry" />
