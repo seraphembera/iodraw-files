@@ -31,6 +31,30 @@
         <mxCell id="vBCaYA9Bk_-LSTim4qw2-9" value="Temp Sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="480" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-10" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-11" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-12" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-13" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-14" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-15" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-16" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vBCaYA9Bk_-LSTim4qw2-17" value="ADC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
